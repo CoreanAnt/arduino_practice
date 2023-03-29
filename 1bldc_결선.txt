@@ -1,0 +1,21 @@
+결선
+
+모터 드라이브
+
+START STOP => A1
+GROUND => A0
+RUN BREAK => D8
+CW/CCW => ON
+
+릴레이 모듈
+
+Signal => D2
+5V vcc => +
+Ground => -
+NC => D13
+ON => CW/CCW
+
+스위치 좌 => D7
+스위치 우 => D6
+
+조이스틱 1채널 signal => D5
